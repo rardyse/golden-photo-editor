@@ -1,7 +1,7 @@
 # golden-photo-editor
 
 
-IN CONSTRUCTION
+/!\ IN CONSTRUCTION /!\
 
 
 ## quick presentation :
