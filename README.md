@@ -1,6 +1,9 @@
 # golden-photo-editor
 
 
+IN CONSTRUCTION
+
+
 ## quick presentation :
 
 this project was born from my deep love for warm, nostalgic visuals. i love taking pictures, and never apply filters on it, but I love this warm light / golden hour aspect in a picture,
@@ -40,7 +43,7 @@ that’s it. simple. aesthetic. efficient. free. DIY. all in the same place. and
 - myself hahaha
 
 
-## of course you are absolutely free to re-use it and re-style it as you need and wish :)
+### of course you are absolutely free to re-use it and re-style it as you need and wish :)
 
 
 a huge pleasure, 
