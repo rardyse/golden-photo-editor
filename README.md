@@ -16,11 +16,11 @@ that’s it. simple. aesthetic. efficient. free. DIY. all in the same place. and
 
 ## features :
 
-- apply warm-toned filters - yellows, ambers, burnt oranges, warm browns 
-- more than **30 custom filter presets** - from honey-glow to dusty ochre, sunset to sepia  
-- adjustable **filter intensity** – because sometimes you want full fire, sometimes just a glow  
-- **transparency slider** - to blend the filter subtly or boldly  
-- optional **greyscale and desaturated warm filters** – for that retro black & white mood   
+- apply warm-toned filters (yellows, ambers, burnt oranges, warm browns)
+- more than **30 custom filter presets** (from honey-glow to dusty ochre, sunset to sepia) 
+- adjustable **filter intensity** (because sometimes you want full fire, sometimes just a glow)  
+- **transparency slider** (to blend the filter subtly or boldly) 
+- optional **greyscale and desaturated warm filters** (for that retro black & white mood)   
 - quick preview before applying  
 - save the edited image locally  
 - designed to be intuitive and easy-to-use
